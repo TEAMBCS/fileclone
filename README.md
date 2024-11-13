@@ -11,9 +11,9 @@
 
 * cd && rm -rf bcssetup.sh
 
-* git clone https://github.com/TEAMBCS/Fileclone
+* git clone https://github.com/TEAMBCS/fileclone
 
-* cd Fileclone
+* cd fileclone
 
 * python file.py
 
