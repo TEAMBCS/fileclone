@@ -9,7 +9,7 @@
 
 * pkg install git -y
 
-* cd && rm -rf bcssetup.sh
+* rm -rf fileclone
 
 * git clone https://github.com/TEAMBCS/fileclone
 
