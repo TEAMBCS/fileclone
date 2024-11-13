@@ -1,6 +1,6 @@
-# rndmbcs
+# Fileclone
 # ASSALAMUALIKUM
-* This Is A Free Working Tools For Cracking Old And New Facebook Account Like (2004 To Now
+* This Is A Free Working Tools For Cracking File clone Old And New Facebook Account Like (2004 To Now
 # Installation ⬇️:
 
 * pkg update -y
@@ -11,9 +11,9 @@
 
 * cd && rm -rf bcssetup.sh
 
-* git clone https://github.com/TEAMBCS/rndmbcs
+* git clone https://github.com/TEAMBCS/Fileclone
 
-* cd rndmbcs
+* cd Fileclone
 
 * python file.py
 
