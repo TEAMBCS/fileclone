@@ -15,7 +15,7 @@
 
 * cd rndmbcs
 
-* python rndm.py
+* python file.py
 
 # Test On :
 * Termux
